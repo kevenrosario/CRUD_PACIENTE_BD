@@ -75,15 +75,11 @@ namespace Crud_Paciente_BD
             Console.WriteLine("\n");
 
             Console.WriteLine("SISTEMA DESENVOLVIDO POR: \n" +
-                "BRUNO CORREIA BARBOSA  \n" +
-                "HYAGO ESIO CAMPOS ALMEIDA \n" +
+                "MATHEUS COSTA RODRIGUES  \n" +
                 "MATHEUS ALVES NEITZL \n" +
-                "PHELLIPE SANTOS SARMENTO \n" +
-                "RAPHAEL FERREIRA DE MORAES \n" +
-                "TIAGO DE LIMA SANTOS ABREU");
+                "KEVEN ARAÚJO");
             Console.WriteLine("\n");
-
-            Console.WriteLine("DISCIPLINA: BANCO DE DADOS - 2022/2 \nPROFESSOR: HOWARD ROATTI");
+            
             Console.WriteLine("##################################################\n");
         }
 
