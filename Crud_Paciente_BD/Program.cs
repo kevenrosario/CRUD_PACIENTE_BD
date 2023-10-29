@@ -77,7 +77,7 @@ namespace Crud_Paciente_BD
             Console.WriteLine("SISTEMA DESENVOLVIDO POR: \n" +
                 "MATHEUS COSTA RODRIGUES  \n" +
                 "MATHEUS ALVES NEITZL \n" +
-                "KEVEN ARAÚJO");
+                "KEVEN DO ROSARIO FERREIRA");
             Console.WriteLine("\n");
             
             Console.WriteLine("##################################################\n");
